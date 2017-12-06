@@ -1,0 +1,43 @@
+char_latin_small_letter_a	A: 1
+char_latin_small_letter_á	A: 1
+char_latin_small_letter_à	A: 1
+char_latin_small_letter_â	A: 1
+char_latin_small_letter_ä	A: 1
+char_latin_small_letter_b	b i@ 1
+char_latin_small_letter_c	s i@ 1
+char_latin_small_letter_d	d i@ 1
+char_latin_small_letter_e	i@ 1
+char_latin_small_letter_é	i@ 1
+char_latin_small_letter_è	i@ 1
+char_latin_small_letter_ê	i@ 1
+char_latin_small_letter_ë	i@ 1
+char_latin_small_letter_f	E 1 f
+char_latin_small_letter_g	x i@ 1
+char_latin_small_letter_h	h\ A: 1
+char_latin_small_letter_i	i 1
+char_latin_small_letter_í	i 1
+char_latin_small_letter_ï	i 1
+char_latin_small_letter_j	j i@ 1
+char_latin_small_letter_k	k A: 1
+char_latin_small_letter_l	{ 1 l
+char_latin_small_letter_m	E 1 m
+char_latin_small_letter_n	E 1 n
+char_latin_small_letter_o	u@ 1
+char_latin_small_letter_ó	u@ 1
+char_latin_small_letter_ô	u@ 1
+char_latin_small_letter_ö	u@ 1
+char_latin_small_letter_p	p i@ 1
+char_latin_small_letter_q	k y 1
+char_latin_small_letter_r	{ 1 r
+char_latin_small_letter_s	E 1 s
+char_latin_small_letter_t	t i@ 1
+char_latin_small_letter_u	y 1
+char_latin_small_letter_ú	y 1
+char_latin_small_letter_ù	y 1
+char_latin_small_letter_û	y 1
+char_latin_small_letter_ü	y 1
+char_latin_small_letter_v	f i@ 1
+char_latin_small_letter_w	v i@ 1
+char_latin_small_letter_x	E 1 k s
+char_latin_small_letter_y	@i 1
+char_latin_small_letter_z	z E 1 t
