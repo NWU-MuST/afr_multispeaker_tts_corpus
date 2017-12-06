@@ -27,9 +27,9 @@ Furthermore,
  - The most up-to-date version of the text components (transcriptions
    and dictionaries) are available at: https://github.com/NWU-MuST
 
+--------------------------------------------------------------------------------
 
-1. Basic format and technical notes
------------------------------------
+## 1. Basic format and technical notes
 
 This package should contain this file `README.md` and the following
 subdirectories:
@@ -79,9 +79,9 @@ the provided dictionaries are in `utts.data.norm`.
 
 Text files are in UTF-8 encoded Unicode (NFC).
 
+--------------------------------------------------------------------------------
 
-2. Text resources
------------------
+## 2. Text resources
 
 The corpus contains Afrikaans and English sentences, developed as
 follows:
@@ -108,9 +108,9 @@ of usable utterances were obtained. Specifically, some utterances were
 discarded due to the presence of buffer-underrun artifacts that were
 not detected during the recording process.
 
+--------------------------------------------------------------------------------
 
-3. Speakers and corpus stratification
--------------------------------------
+## 3. Speakers and corpus stratification
 
 Each speaker read a subset of sentences of each language. For
 Afrikaans a small set of (overlap) sentences containing the rarest
@@ -148,9 +148,9 @@ that may be useful (speaker id's are present in utterance labels):
 |    8    |      Young     |         Cape (Brei: /R/ for /r/)            |     Informal    |    Accented    |
 |    9    |       ---      |                  (Cape)                     |     Informal    |    Accented    |
 
+--------------------------------------------------------------------------------
 
-4. Orthographic transcriptions and quality checking
----------------------------------------------------
+## 4. Orthographic transcriptions and quality checking
 
 The following describes the basic process followed after recording:
 
@@ -215,9 +215,9 @@ With the exception of these cases, all pronunciations were handled
 systematically to be phonemically consistent as described in the next
 section.
 
+--------------------------------------------------------------------------------
 
-5. Phone set and pronunciation dictionaries
--------------------------------------------
+## 5. Phone set and pronunciation dictionaries
 
 The phone set and G2P rules used to develop the corpus is based on the
 NCHLT project [7, 8, 9, 10]. The phoneset used here deviates from the
@@ -273,9 +273,9 @@ dictionaries [8, 9]. While these resources contain significantly more
 tokens (and are therefore more appropriate for G2P prediction), they
 do not contain stress or syllable markers.
 
+--------------------------------------------------------------------------------
 
-6. References
--------------
+## 6. References
 
 [1] https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 
