@@ -23,7 +23,6 @@ Conference of the International Speech Communication Association
 Furthermore,
 
  - The original release is available at: http://www.openslr.org/32/
- - This version can be found on http://www.demitasse.co.za/~demitasse/
  - The most up-to-date version of the text components (transcriptions
    and dictionaries) are available at: https://github.com/NWU-MuST
 
